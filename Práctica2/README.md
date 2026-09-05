@@ -1,12 +1,13 @@
 ## Estadística descriptiva
-Métrica         	    trucks          	trains
-Media           	    10,774.4	        27.9
-Mediana             	844.5              	0
-Desv. estándar      	29,296.1	        68.9
-Mínimo	                0               	0
-Máximo	                267,884         	447
-Moda	                1	                0
-Asimetría (skew)	    4.91	            3.28
+| Métrica | trucks | trains |
+|---|---|---|
+| Media | 10,774.4 | 27.9 |
+| Mediana | 844.5 | 0 |
+| Desv. estándar | 29,296.1 | 68.9 |
+| Mínimo | 0 | 0 |
+| Máximo | 267,884 | 447 |
+| Moda | 1 | 0 |
+| Asimetría (skew) | 4.91 | 3.28 |
 
 # Interpretación: 
 Ambas variables tienen una asimetría positiva muy fuerte, la media está muy por encima de la mediana en ambos casos. Esto indica que la
