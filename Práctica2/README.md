@@ -9,7 +9,7 @@
 | Moda | 1 | 0 |
 | Asimetría (skew) | 4.91 | 3.28 |
 
-# Interpretación: 
+Interpretación: 
 Ambas variables tienen una asimetría positiva muy fuerte, la media está muy por encima de la mediana en ambos casos. Esto indica que la
 mayoría de los puertos manejan volúmenes bajos de cruces, mientras que un grupo pequeño de puertos (Laredo, Detroit) concentra volúmenes muy altos y eleva el promedio general.
 La mediana de trains en 0 confirma que más de la mitad de los registros no tienen cruce de tren ese mes, muchos puertos solo manejan tráfico de camiones.
