@@ -86,7 +86,7 @@ y es la medida más estable.
 
 ## Archivos en esta carpeta
 
-- dataset_limpio.csv — dataset de la Práctica 1
+- dataset_limpio.csv — dataset de la práctica 1
 - clasificacion_knn.py — script con todo el proceso
 - knn_k_vs_f1.png — elección de k con validación cruzada
 - knn_matriz_confusion.png — matriz de confusión del modelo final
